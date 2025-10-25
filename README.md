@@ -1,4 +1,4 @@
-# I am Aryan Singh Chauhan  
+# Aryan Singh Chauhan  
 **DevOps & AWS Engineer**
 
 ## 👨‍💻 About Me
@@ -18,14 +18,11 @@ Git | OAuth2 | Microservices | CI/CD | Infrastructure Automation
 
 ## 🚀 Featured Projects
 
-### [Netflix Clone - AWS Backend](https://github.com/yourusername/netflix-clone)
-Scalable backend service with AWS integration featuring user authentication and video streaming capabilities.
-
-### [DevSecOps Tetris](https://github.com/yourusername/devsecops-tetris)
-Secure implementation demonstrating DevSecOps practices with SAST scanning and container security.
-
-### [AWS Microservices Deployment Pipeline](https://github.com/yourusername/aws-pipeline)
+### [AWS Microservices Deployment Pipeline](https://github.com/salmonstone/devsecops-Tetris-V1)
 End-to-end cloud infrastructure with automated CI/CD using AWS CodePipeline, ECS, and VPC.
+
+### [Netflix Clone - AWS Backend](https://github.com/salmonstone/java-project-maven-new)
+Scalable backend service with AWS integration featuring user authentication and video streaming capabilities.
 
 ## 📫 Connect With Me
 
