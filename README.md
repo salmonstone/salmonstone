@@ -1,7 +1,7 @@
 # Aryan Singh Chauhan  
 **DevOps & AWS Engineer**
 
-https://salmonstone.github.io/AryanSingh9832.github.io/
+<a href="https://salmonstone.github.io/AryanSingh9832.github.io/">Explore My Portfolio</a>
 
 ## 👨‍💻 About Me
 
