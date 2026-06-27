@@ -29,7 +29,7 @@ Scalable backend service with AWS integration featuring user authentication and 
 ## 📫 Connect With Me
 
 - **📧 Email:** arysingh9832@gmail.com
-- **💼 LinkedIn:** [linkedin.com/in/AryanSingh](https://linkedin.com/in/AryanSingh)
+- **💼 LinkedIn:** [https://www.linkedin.com/in/aryan-singh-8388922b0/)
 - **📱 Phone:** +91-9832936894
 
 ## 🎯 Currently Learning
